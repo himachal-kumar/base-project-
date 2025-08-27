@@ -7,7 +7,6 @@ import { Outlet } from "react-router-dom";
  * It provides routing for:
  * - `/admin` - Admin Dashboard (default)
  * - `/admin/users` - User Management
- * - `/admin/settings` - System Settings
  * 
  * @returns The Outlet component for nested admin routes.
  */
